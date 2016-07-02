@@ -10,4 +10,6 @@
 ### July 5
 **Dataset :** USDA.csv
 
-**Description:** These Datasets come from USDA National Nutrient Database for Standard Reference.
+**Description:** These Datasets come from USDA National Nutrient Database for Standard Reference. The Data describe the Nutritions in different products Such as, Calories, Protein, TotalFat, Carbohydrate, Sodium, SaturatedFat, Cholesterol, Sugar, Calcium, Iron,     Potassium, VitaminC, VitaminE, VitaminD
+
+

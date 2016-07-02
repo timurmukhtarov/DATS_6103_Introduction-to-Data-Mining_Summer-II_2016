@@ -2,10 +2,10 @@
 
 ## Download Software
 
-** R for Windows: ** https://cran.r-project.org/bin/windows/base/
+**R for Wndows:** https://cran.r-project.org/bin/windows/base/
 
 ##Week 1
 ### July 5
-**Dataset:** USDA.csv
+**Dataset :** USDA.csv
 
 **Description:** These Datasets come from USDA National Nutrient Database for Standard Reference.

@@ -1,1 +1,1 @@
-# MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python
+# DATS_6103: Introduction to Data Mining

@@ -2,6 +2,6 @@
 
 ##Week 1
 ### July 5
-**Dataset :** DataUSDA.csv
+**Dataset :** USDA.csv
 
 **Description:** These Datasets come from USDA National Nutrient Database for Standard Reference.

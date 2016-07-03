@@ -10,7 +10,7 @@
 
 **R-bloggers:** http://www.r-bloggers.com/
 
-**Stack Overflow:** http://www.r-bloggers.com/
+**Stack Overflow:** http://stackoverflow.com/
 
 
 ##Week 1

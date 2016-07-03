@@ -8,9 +8,9 @@
 
 ## Resources for R
 
-** R-bloggers:** http://www.r-bloggers.com/
+**R-bloggers:** http://www.r-bloggers.com/
 
-** Stack Overflow:** http://www.r-bloggers.com/
+**Stack Overflow:** http://www.r-bloggers.com/
 
 
 ##Week 1

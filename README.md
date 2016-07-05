@@ -22,9 +22,9 @@
 
 2) Misc -> Change Working Directory
 
-###R-bloggers: http://www.r-bloggers.com/
+####R-bloggers: http://www.r-bloggers.com/
 
-###Stack Overflow: http://stackoverflow.com/
+####Stack Overflow: http://stackoverflow.com/
 
 
 ##Week 1

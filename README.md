@@ -8,9 +8,23 @@
 
 ## Resources for R
 
-**R-bloggers:** http://www.r-bloggers.com/
+###Set Working Directory:
 
-**Stack Overflow:** http://stackoverflow.com/
+**For Windows:** 
+
+1) setwd("C:/Users/User Name/Documents/FOLDER")
+
+2) File -> Change Dir...
+
+**For Mac:** 
+
+1) setwd("/Users/User Name/Documents/FOLDER")
+
+2) Misc -> Change Working Directory
+
+###R-bloggers: http://www.r-bloggers.com/
+
+###Stack Overflow: http://stackoverflow.com/
 
 
 ##Week 1

@@ -26,7 +26,13 @@
 
 ####Stack Overflow: http://stackoverflow.com/
 
+## Resources for Dataset
 
+https://www.kaggle.com/datasets
+
+http://archive.ics.uci.edu/ml/
+
+http://www.kdnuggets.com/datasets/index.html
 ##Week 1
 ### **July 5:** Basic With R Programming
 **Dataset :** USDA.csv

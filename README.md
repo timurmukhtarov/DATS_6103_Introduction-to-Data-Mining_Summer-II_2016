@@ -33,8 +33,8 @@ https://www.kaggle.com/datasets
 http://archive.ics.uci.edu/ml/
 
 http://www.kdnuggets.com/datasets/index.html
-##Week 1
-### **July 5:** Basic With R Programming
+
+## **July 5:** Basic With R Programming
 **Dataset :** USDA.csv
 
 **Description:** These Datasets come from USDA National Nutrient Database for Standard Reference. It contains 7058 samples of 16 variables, and contains level of nutritions in different products Such as, Calories, Protein, TotalFat, Carbohydrate, Sodium, SaturatedFat, Cholesterol, Sugar, Calcium, Iron, Potassium, VitaminC, VitaminE, VitaminD

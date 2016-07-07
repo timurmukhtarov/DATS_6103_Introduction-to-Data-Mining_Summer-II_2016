@@ -41,14 +41,15 @@ http://www.kdnuggets.com/datasets/index.html
 
 **In-Class Assignment:** Basic Arithmatic, Directory, Read CSV file, Explore data statistically (Mean, Median, Standard Deviation, Quartile, Maximum, Minimum), Explore one variable, Create new data frame, Find particular keyword in Data. Write CSV file.
 
-## **July 7:** 
-Plot the Data (Scattered, line, Barplot, Histrogram) with labels, Save Plot.
+## **July 7:** Plot Data On USDA, and Introduction to fnancial Data
+
+Plot the Data (Scattered, line, Barplot, Histrogram) with labels, Save Plot. Missing Value in Data
 
 ### Stock Data Analysis
 
 #### Install Package
 
-install.packages("quantmod")
+**Quantmode:** install.packages("quantmod")
 
 #### Terminology of Stock Market
 

@@ -41,7 +41,7 @@ http://www.kdnuggets.com/datasets/index.html
 
 **In-Class Assignment:** Basic Arithmatic, Directory, Read CSV file, Explore data statistically (Mean, Median, Standard Deviation, Quartile, Maximum, Minimum), Explore one variable, Create new data frame, Find particular keyword in Data. Write CSV file.
 
-## **July 7:** Stock Data Analysis and Plot the Data
+## **July 7:** 
 Plot the Data (Scattered, line, Barplot, Histrogram) with labels, Save Plot.
 
 ### Stock Data Analysis

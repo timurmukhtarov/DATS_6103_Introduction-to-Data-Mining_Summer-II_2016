@@ -39,6 +39,19 @@ http://www.kdnuggets.com/datasets/index.html
 
 **Description:** These Datasets come from USDA National Nutrient Database for Standard Reference. It contains 7058 samples of 16 variables, and contains level of nutritions in different products Such as, Calories, Protein, TotalFat, Carbohydrate, Sodium, SaturatedFat, Cholesterol, Sugar, Calcium, Iron, Potassium, VitaminC, VitaminE, VitaminD
 
-**In-Class Assignment:** Basic Arithmatic, Directory, Read CSV file, Explore data statistically (Mean, Median, Standard Deviation, Quartile, Maximum, Minimum), Explore one variable, Create new data frame, Find particular keyword in Data, Plot the Data (Scattered, line, Barplot, Histrogram) with labels, Write CSV file, Save Plot.
+**In-Class Assignment:** Basic Arithmatic, Directory, Read CSV file, Explore data statistically (Mean, Median, Standard Deviation, Quartile, Maximum, Minimum), Explore one variable, Create new data frame, Find particular keyword in Data. Write CSV file.
 
+## **July 7:** Stock Data Analysis and Plot the Data
+Plot the Data (Scattered, line, Barplot, Histrogram) with labels, Save Plot.
 
+### Stock Data Analysis
+
+#### Install Package
+
+install.packages("quantmod")
+
+#### Terminology of Stock Market
+
+Volume meaning in the refrece of Stock Market: https://www.stocktrader.com/2006/03/21/volume-and-its-meaning/
+
+Volume interpretation with Stocks Chart: https://www.stocktrader.com/2007/05/09/volume-interpretation-with-stock-charts/

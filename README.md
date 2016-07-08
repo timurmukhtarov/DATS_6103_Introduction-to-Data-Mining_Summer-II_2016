@@ -51,6 +51,8 @@ Plot the Data (Scattered, line, Barplot, Histrogram) with labels, Save Plot. Mis
 
 **Quantmode:** install.packages("quantmod")
 
+**Resources:** http://www.quantmod.com/examples/data/
+
 #### Terminology of Stock Market
 
 Volume meaning in the refrece of Stock Market: https://www.stocktrader.com/2006/03/21/volume-and-its-meaning/

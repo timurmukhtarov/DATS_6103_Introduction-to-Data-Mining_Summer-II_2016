@@ -1,3 +1,4 @@
+
 For the class, we consider the Python 3.5 with Anaconda/Jupiter Notebook.
 
 ##Download and Install Anaconda
@@ -47,4 +48,3 @@ For good practice, Create a new folder for the class.
 **Step 1:**  Select **Upload** pull down menu from upper right of the window, where you want to upload in the folder
 
 **Step 2:** Choose the file
-

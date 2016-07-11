@@ -13,9 +13,9 @@ For the class, we consider the Python 3.5 with Anaconda/Jupiter Notebook.
 
 **Step 1:** From Start Menu, open **Anaconda Prompt** 
 
-**Step 2:** Write in console **conda install jupyter**
+**Step 2:** Write in console **$ conda install jupyter**
 
-**Step 3:** Release the jupyter notebook, write in console **jupyter notebook**
+**Step 3:** Release the jupyter notebook, write in console **$ jupyter notebook**
 
 **Step 4:** You get the below like windows on your default browser
 

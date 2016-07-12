@@ -43,6 +43,9 @@ For good practice, Create a new folder for the class.
 
 **Step 5:** Now rename the file, Click on the **Untitle** and rename the file
 
+### Change the Defualt Directory of Jupyter Notebook
+
+ipython notebook --notebook-dir = 'PATH'
 ## Upload File
 
 **Step 1:**  Select **Upload** pull down menu from upper right of the window, where you want to upload in the folder
